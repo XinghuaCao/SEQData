@@ -17,7 +17,7 @@ import java.util.ArrayList;
  * @author Xinghua
  */
 public class SeqData {
-    
+    //-----
     public static void main(String[] args) {
         SeqData instance = new SeqData();
         String inputTable1 = "C:\\Users\\Xinghua\\Desktop\\AuthHits.txt";
